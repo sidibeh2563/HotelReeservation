@@ -3,6 +3,6 @@
     public interface IHotelReservation
     {
         Task<string> RoomAvailability(string hotelId, string dateRange, string roomType);
-        Task<string> Search(string hotelId, int daysAhead, string roomType);
+        Task<string> Search(string hotelId, int days, string roomType);
     }
 }
