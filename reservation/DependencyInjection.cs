@@ -1,11 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace reservation
+﻿namespace reservation
 {
     public static class DependencyInjection
     {
