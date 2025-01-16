@@ -1,0 +1,11 @@
+﻿global using reservation.Repository;
+global using reservation.services.HotelReservationService;
+global using reservation.services.ValidationService;
+global using reservation.Models;
+global using System;
+global using System.Collections.Generic;
+global using System.IO;
+global using System.Linq;
+global using System.Globalization;
+global using Newtonsoft.Json;
+global using Microsoft.Extensions.DependencyInjection;
