@@ -1,0 +1,13 @@
+Running the application:
+
+UnZip files and run in visual studio
+When prompted for files
+Enter: hotels.json
+Enter: books.json
+You can also give file path your files exist somewhere else but for this demo I have put files booking.json and hotels.json in the default folder reservation\bin\Debug\net8.0
+Enter for availability test:
+Availability(H1, 20240901, SGL) 
+Availability(H1, 20240901-20240903, DBL)
+Enter for Search Test:
+Search(H1, 365, SGL)
+Enter on blank prompt for exit
